@@ -1,0 +1,19 @@
+{
+  "name": "FFRPG Helper",
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "GaiusCoffee"
+  ],
+  "license": "No License",
+  "homepage": "http://gaius.coffee/ffrpg-helper",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "html5shiv": "~3.7.3",
+    "respond": "~1.4.2",
+    "firebase": "~2.3.2",
+    "jStorage": "~0.4.12"
+  }
+}
