@@ -1,0 +1,1 @@
+# Cid, the FFRPG Assistant
